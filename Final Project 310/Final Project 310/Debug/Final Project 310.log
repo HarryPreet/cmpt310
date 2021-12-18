@@ -1,0 +1,7 @@
+﻿  Final Project 310.cpp
+c:\users\harry\onedrive\desktop\final project 310\final project 310\final project 310.cpp(145): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\harry\onedrive\desktop\final project 310\final project 310\final project 310.cpp(489): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\harry\onedrive\desktop\final project 310\final project 310\final project 310.cpp(490): warning C4305: 'initializing': truncation from '__int64' to 'float'
+  Main.cpp
+  Generating Code...
+  Final Project 310.vcxproj -> C:\Users\harry\OneDrive\Desktop\Final Project 310\Debug\Final Project 310.exe

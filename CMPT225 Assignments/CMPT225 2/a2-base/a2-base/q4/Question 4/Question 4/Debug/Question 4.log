@@ -1,0 +1,6 @@
+﻿  Queue.cpp
+c:\users\harry\onedrive\desktop\cmpt225 assignments\cmpt225 2\a2-base\a2-base\q4\question 4\question 4\queue.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\harry\onedrive\desktop\cmpt225 assignments\cmpt225 2\a2-base\a2-base\q4\question 4\question 4\queue.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Question 4.vcxproj -> C:\Users\harry\OneDrive\Desktop\CMPT225 Assignments\CMPT225 2\a2-base\a2-base\q4\Question 4\Debug\Question 4.exe

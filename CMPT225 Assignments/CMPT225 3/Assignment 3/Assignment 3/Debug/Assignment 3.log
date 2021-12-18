@@ -1,0 +1,7 @@
+﻿  Assignment 3.cpp
+c:\users\harry\onedrive\desktop\cmpt225 assignments\cmpt225 3\assignment 3\assignment 3\queue.h(44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\harry\onedrive\desktop\cmpt225 assignments\cmpt225 3\assignment 3\assignment 3\queue.h(57): note: see reference to class template instantiation 'Queue<ElementType>' being compiled
+c:\users\harry\onedrive\desktop\cmpt225 assignments\cmpt225 3\assignment 3\assignment 3\queue.h(146): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\harry\onedrive\desktop\cmpt225 assignments\cmpt225 3\assignment 3\assignment 3\priorityqueue.h(72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\harry\onedrive\desktop\cmpt225 assignments\cmpt225 3\assignment 3\assignment 3\priorityqueue.h(74): note: see reference to class template instantiation 'PriorityQueue<T>' being compiled
+  Assignment 3.vcxproj -> C:\Users\harry\OneDrive\Desktop\CMPT225 Assignments\CMPT225 3\Assignment 3\Debug\Assignment 3.exe
